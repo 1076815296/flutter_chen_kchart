@@ -1,3 +1,6 @@
+## 2.0.1
+* UPDATE README
+
 ## 2.0.0
 * Added: Professional drawing tools including Trend Line, Trend Angle, Arrow, Vertical Line, Horizontal Line, Horizontal Ray, Ray, and Cross Line.
 * Added: Interactive modes for drawing tools: TradingView-style crosshair selection, continuous drawing mode, magnet snapping mode, show/hide drawings, clear all drawings, and precise positioning control.
