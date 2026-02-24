@@ -230,8 +230,7 @@ KChartWidget(
 
 ### 📞 联系方式 / Contact
 
-- 💬 **微信咨询**：`Chen-Taurus-0510`
-- 📧 **邮箱联系**：`1251752648@qq.com`
+- 💬 **TG咨询**：`taurus3914`
 - 🐛 **GitHub Issues**：[技术问题讨论](https://github.com/Er-Dong-Chen/flutter_chen_kchart/issues)
 
 ---
@@ -249,7 +248,6 @@ KChartWidget(
 - 🌟 **[GitHub](https://github.com/Er-Dong-Chen/flutter_chen_kchart)** - Star 支持我们
 - 🐛 **[Issues](https://github.com/Er-Dong-Chen/flutter_chen_kchart/issues)** - Bug 反馈
 - 💬 **[Discussions](https://github.com/Er-Dong-Chen/flutter_chen_kchart/discussions)** - 功能讨论
-- 📱 **微信群** - 添加微信 备注"入群"
 
 ---
 
@@ -260,17 +258,6 @@ KChartWidget(
 - [x] 绘图新增完善
 - [ ] 高级技术指标
 - [ ] 完全对标TradingView/主流交易所KChart
-
----
-
-## 捐赠支持 / Donation Support
-
-如果免费版对你有帮助，欢迎捐赠支持开发：
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://er-dong-chen.github.io/images/wechat.png" alt="微信赞赏" style="width: 48%;">
-  <img src="https://er-dong-chen.github.io/images/alipay.png" alt="支付宝捐赠" style="width: 48%;">
-</div>
 
 ---
 
