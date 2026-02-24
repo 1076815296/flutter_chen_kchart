@@ -257,7 +257,7 @@ KChartWidget(
 
 ### v2.x 商用版计划
 - [x] v2.0.0 - 绘图工具及模式套件、TradingView交互体验
-- [ ] 绘图新增完善
+- [x] 绘图新增完善
 - [ ] 高级技术指标
 - [ ] 完全对标TradingView/主流交易所KChart
 
