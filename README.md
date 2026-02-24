@@ -25,6 +25,8 @@
 
 ### [🌐 在线演示 / Online Demo](https://er-dong-chen.github.io/flutter_chen_kchart/)
 
+### [🌐 App演示 / App Demo](https://www.pgyer.com/kchart-android)
+
 <div style="display: flex; justify-content: space-between;">
   <img src="https://er-dong-chen.github.io/images/demo/kchart.gif" alt="基础K线图表" style="width: 48%;">
   <img src="https://er-dong-chen.github.io/images/demo/kchart_select.gif" alt="交互选择功能" style="width: 48%;">
