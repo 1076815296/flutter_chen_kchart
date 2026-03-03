@@ -43,7 +43,7 @@ class DataUtil {
     _calcBOLLMA(n, dataList);
     for (int i = 0; i < dataList.length; i++) {
       KLineEntity entity = dataList[i];
-      if (i >= n) {
+      if (i >= n - 1) {  // 修复：第 n 个数据点（索引 n-1）开始计算 BOLL
         double md = 0;
         for (int j = i - n + 1; j <= i; j++) {
           double c = dataList[j].close;
